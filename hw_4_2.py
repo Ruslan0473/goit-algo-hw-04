@@ -16,5 +16,5 @@ def get_cats_info(path):
 
 
 
-cats_info = get_cats_info("c:/Users/admin/Desktop/PYTHON/M_4/data_cats.txt")
+cats_info = get_cats_info("c:/Users/admin/Desktop/PYTHON/M_4/hw_4/data_cats.txt")
 print(cats_info)
